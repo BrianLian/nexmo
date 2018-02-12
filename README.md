@@ -1,4 +1,3 @@
-[![build status](https://secure.travis-ci.org/pvela/nexmo.png)](http://travis-ci.org/pvela/nexmo)
 A nodejs wrapper for nexmo (http://nexmo.com/) API to send SMS
 
 Installation Instructions : 
